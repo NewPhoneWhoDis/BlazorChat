@@ -1,0 +1,12 @@
+C:\Users\krist\Desktop\BlazingChat\BlazingChat\Shared\bin\Debug\net6.0\BlazingChat.Shared.deps.json
+C:\Users\krist\Desktop\BlazingChat\BlazingChat\Shared\bin\Debug\net6.0\BlazingChat.Shared.dll
+C:\Users\krist\Desktop\BlazingChat\BlazingChat\Shared\bin\Debug\net6.0\BlazingChat.Shared.pdb
+C:\Users\krist\Desktop\BlazingChat\BlazingChat\Shared\obj\Debug\net6.0\BlazingChat.Shared.csproj.AssemblyReference.cache
+C:\Users\krist\Desktop\BlazingChat\BlazingChat\Shared\obj\Debug\net6.0\BlazingChat.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\Desktop\BlazingChat\BlazingChat\Shared\obj\Debug\net6.0\BlazingChat.Shared.AssemblyInfoInputs.cache
+C:\Users\krist\Desktop\BlazingChat\BlazingChat\Shared\obj\Debug\net6.0\BlazingChat.Shared.AssemblyInfo.cs
+C:\Users\krist\Desktop\BlazingChat\BlazingChat\Shared\obj\Debug\net6.0\BlazingChat.Shared.csproj.CoreCompileInputs.cache
+C:\Users\krist\Desktop\BlazingChat\BlazingChat\Shared\obj\Debug\net6.0\BlazingChat.Shared.dll
+C:\Users\krist\Desktop\BlazingChat\BlazingChat\Shared\obj\Debug\net6.0\refint\BlazingChat.Shared.dll
+C:\Users\krist\Desktop\BlazingChat\BlazingChat\Shared\obj\Debug\net6.0\BlazingChat.Shared.pdb
+C:\Users\krist\Desktop\BlazingChat\BlazingChat\Shared\obj\Debug\net6.0\ref\BlazingChat.Shared.dll

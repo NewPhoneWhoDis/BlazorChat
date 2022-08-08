@@ -1,0 +1,8 @@
+@page "/chat/{FirstName}"
+
+<h1>This is chat page: @FirstName</h1>
+
+@code {
+    [Parameter]
+    public string FirstName {get; set;} = default!;
+}
